@@ -1,0 +1,6 @@
+flask
+pypdf
+langchain-huggingface
+langchain-community
+chromadb
+sentence-transformers
